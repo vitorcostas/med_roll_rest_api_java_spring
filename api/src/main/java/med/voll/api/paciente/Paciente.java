@@ -1,6 +1,5 @@
 package med.voll.api.paciente;
 
-import aj.org.objectweb.asm.Type;
 import jakarta.persistence.*;
 import lombok.*;
 import med.voll.api.endereco.Endereco;
